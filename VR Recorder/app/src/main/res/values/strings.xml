@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">VR Video Camera Recorder</string>
-    <string name="label_permissions">Permission</string>
-    <string name="Share">Share Content with:</string>
-
-    <string name="interstitial_full_screen">ca-app-pub-1718733539413571/9504980040</string>
-    <string name="banner_home_footer">ca-app-pub-1718733539413571/5074780442</string>
-</resources>
