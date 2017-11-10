@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.android.application'
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+    defaultConfig {
+        applicationId 'com.smarticalapps.vr.video.recorder'
+        minSdkVersion 21
+        targetSdkVersion 25
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+dependencies {
+    compile 'com.android.support:support-v4:25.3.1'
+    compile files('libs/cardboard.jar')
+    compile 'com.android.support:design:25.3.1'
+    compile 'com.google.android.gms:play-services-ads:11.0.4'
+}
