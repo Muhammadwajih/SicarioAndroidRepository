@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.smartical.vr.cinema.videoplayer.exit">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/imageView"
+        android:background="@drawable/wantexit"
+        android:layout_centerVertical="true" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="140dp"
+            android:layout_height="110dp"
+            android:id="@+id/imageButton4"
+            android:background="@drawable/yes"
+            android:layout_marginLeft="150dp"
+            android:layout_gravity="center_vertical" />
+
+        <ImageView
+            android:layout_width="140dp"
+            android:layout_height="110dp"
+            android:id="@+id/imageButton5"
+            android:background="@drawable/no"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="40dp"/>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:id="@+id/INCP"
+            android:clickable="true"
+            android:layout_marginTop="500dp"
+            android:layout_marginLeft="220dp"
+            android:layout_marginBottom="150dp"
+            android:layout_gravity="bottom" />
+    </LinearLayout>
+
+</RelativeLayout>
