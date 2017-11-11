@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\muhammad\\AndroidStudioProjects\\PROJECTS\\VR Recorder\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_exit.xml",
+        "source": "C:\\Users\\muhammad\\AndroidStudioProjects\\PROJECTS\\VR Recorder\\app\\src\\main\\res\\layout-large\\activity_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad\\AndroidStudioProjects\\PROJECTS\\VR Recorder\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_loading.xml",
+        "source": "C:\\Users\\muhammad\\AndroidStudioProjects\\PROJECTS\\VR Recorder\\app\\src\\main\\res\\layout-large\\activity_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad\\AndroidStudioProjects\\PROJECTS\\VR Recorder\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_saving.xml",
+        "source": "C:\\Users\\muhammad\\AndroidStudioProjects\\PROJECTS\\VR Recorder\\app\\src\\main\\res\\layout-large\\activity_saving.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad\\AndroidStudioProjects\\PROJECTS\\VR Recorder\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_start.xml",
+        "source": "C:\\Users\\muhammad\\AndroidStudioProjects\\PROJECTS\\VR Recorder\\app\\src\\main\\res\\layout-large\\activity_start.xml"
+    }
+]
